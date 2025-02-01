@@ -19,7 +19,7 @@ The dataset consists of multiple key columns:
 -	Sale Price: The final price after applying any discounts.
 -	Date: The date of the transaction.
 
-![Alt Text](Total Sales Detail.png)
+
 ## Key Metrics:
 1.	Total Sales → $127.97M
 -	This represents the total revenue generated from all product sales.
