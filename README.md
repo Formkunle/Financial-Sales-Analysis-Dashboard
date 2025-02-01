@@ -19,7 +19,7 @@ The dataset consists of multiple key columns:
 -	Sale Price: The final price after applying any discounts.
 -	Date: The date of the transaction.
 
-# Interpretation of Total Sales 
+![Alt Text](Total Sales Detail.png)
 ## Key Metrics:
 1.	Total Sales → $127.97M
 -	This represents the total revenue generated from all product sales.
@@ -62,7 +62,7 @@ Visualizations & Insights:
 -	Profitability is concentrated in a few products, with some products generating much higher profits.
 
 
-![Alt Text](image-name.png)
+![Alt Text](Forcast.png)
 # Interpretation of the Sales Total & Forecast Chart
 This Power BI line chart presents historical sales trends and a forecast for the next year.
 ## Key Observations:
